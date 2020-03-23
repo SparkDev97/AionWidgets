@@ -45,7 +45,7 @@ A quick example of a class that would conform to this protocol would be as follo
 @implementation TestAionWidget
     -(void)setupWithFrame:(CGRect) frame
     {
-        NSLog(@"[Aion] setupWithFrame");
+        NSLog(@"[TestAionWidget] setupWithFrame");
 
         if(self.contentView == NULL)
         {

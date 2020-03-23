@@ -8,7 +8,7 @@
 @implementation TestAionWidget
     -(void)setupWithFrame:(CGRect) frame
     {
-        NSLog(@"[Aion] setupWithFrame");
+        NSLog(@"[TestAionWidget] setupWithFrame");
 
         if(self.contentView == NULL)
         {
