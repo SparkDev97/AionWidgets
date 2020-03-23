@@ -1,0 +1,9 @@
+Package: com.spark.Aionwidgets.test
+Name: Test Aion Widget
+Depends: mobilesubstrate, com.spark.Aion
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test Aion widget
+Maintainer: Spark
+Author: Author
+Section: Tweaks
